@@ -107,7 +107,7 @@ footer p {
 .link::after {
   position: absolute;
   top: 0;
-  left: 100%;
+  left: 204px;
   content: "";
   width: 56px;
   height: 72px;
