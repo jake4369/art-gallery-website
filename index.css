@@ -99,7 +99,7 @@ footer p {
   letter-spacing: 3.63636px;
   text-decoration: none;
   color: #fff;
-  background: #d5966c;
+  background: #151515;
 }
 
 .link::after {
@@ -109,7 +109,7 @@ footer p {
   content: "";
   width: 56px;
   height: 72px;
-  background-color: #151515;
+  background-color: #d5966c;
   background-image: url("assets/icon-arrow-right.svg");
   background-size: 14.2857142857% auto;
   background-repeat: no-repeat;
@@ -514,10 +514,10 @@ footer {
 
   /* LINKS */
   .link:hover {
-    background: #151515;
+    background: #d5966c;
   }
   .link:hover::after {
-    background-color: #d5966c;
+    background-color: #151515;
   }
 
   /* ==========
@@ -552,7 +552,7 @@ footer {
   }
 
   .hero-text p {
-    margin-bottom: 48px;
+    margin-bottom: 68px;
   }
 
   .flex-container {
